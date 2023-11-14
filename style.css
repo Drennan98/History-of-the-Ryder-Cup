@@ -10,4 +10,9 @@ h2 {
 
 #color {
     background-image: url(images/rydercup3.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
 }
+
+
+/* Media queries below here*/
