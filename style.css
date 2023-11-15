@@ -9,6 +9,13 @@ header>p {
     font-style: italic;
 }
 
+/* Table styles start */
+
+table {
+    width: 8vw;
+    border: 2px solid;
+}
+
 .euro {
     color: blue;
     text-align: left;
@@ -23,6 +30,8 @@ h1 {
     color: red;
     text-align: right;
 }
+
+/* Table styles end */
 
 body>p {
     text-align: center;
