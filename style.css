@@ -11,10 +11,21 @@ header>p {
 
 .euro {
     color: blue;
+    text-align: left;
+}
+
+h1 {
+    font-family: 'Lato', sans-serif;
+    font-style: italic;
 }
 
 .usa {
     color: red;
+    text-align: right;
+}
+
+body>p {
+    text-align: center;
 }
 
 body,
