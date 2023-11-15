@@ -9,6 +9,14 @@ header>p {
     font-style: italic;
 }
 
+.euro {
+    color: blue;
+}
+
+.usa {
+    color: red;
+}
+
 body,
 header {
     font-family: 'Lato', sans-serif;
@@ -23,6 +31,10 @@ header {
 header>a {
     color: blue;
     font-family: 'Lato', sans-serif;
+}
+
+th {
+    word-spacing: 5px;
 }
 
 ul {
