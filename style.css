@@ -1,17 +1,16 @@
-h1 {
-    text-align: center;
-    color: red;
-}
-
-h2 {
-    color: blue;
-    text-align: center;
-}
-
 #color {
     background-image: url(images/rydercup3.png);
     background-repeat: no-repeat;
     background-size: 100%;
+}
+
+header>p {
+    text-align: left;
+}
+
+body,
+header {
+    font-family: 'Lato', sans-serif;
 }
 
 header {
@@ -20,9 +19,23 @@ header {
     font-size: 3em;
 }
 
-header a {
+header>a {
     color: blue;
+    font-family: 'Lato', sans-serif;
 }
+
+ul {
+    list-style-type: none;
+    text-align: right;
+    color: blue;
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    font-style: italic;
+
+}
+
+
 
 
 /* Media queries below here*/
