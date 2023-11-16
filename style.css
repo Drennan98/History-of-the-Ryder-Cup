@@ -14,10 +14,16 @@ header>p {
 table {
     width: 8vw;
     border: 2px solid;
+    margin-left: auto;
+    float: right;
 }
 
 .euro {
     color: blue;
+    text-align: left;
+}
+
+table>h3 {
     text-align: left;
 }
 
@@ -33,7 +39,7 @@ h1 {
 
 /* Table styles end */
 
-body>p {
+body>h2 {
     text-align: center;
 }
 
