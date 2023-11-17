@@ -70,6 +70,11 @@ body>h2 {
     font-size: 1em;
 }
 
+body p {
+    display: flex;
+    text-align: left;
+}
+
 header {
     font-family: 'Lato', sans-serif;
     text-align: center;
@@ -77,8 +82,7 @@ header {
     font-size: 2em;
 }
 
-
-header a {
+header>a {
     color: blue;
     font-family: 'Lato', sans-serif;
 }
