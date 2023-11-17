@@ -1,3 +1,8 @@
+* {
+    font-family: 'Lato', sans-serif;
+}
+
+
 #color {
     background-image: url(images/rydercup3.png);
     background-repeat: no-repeat;
@@ -16,8 +21,6 @@ h1 {
     text-shadow: 2px 2px 4px black;
 }
 
-
-
 /* Social media styles */
 
 #social-networks {
@@ -28,7 +31,7 @@ h1 {
 
 #social-networks i {
     font-size: 200%;
-    color: blue;
+    color: blue
 }
 
 
@@ -64,16 +67,18 @@ caption {
 body>h2 {
     text-align: left;
     color: blue;
+    font-size: 1em;
 }
 
 header {
     font-family: 'Lato', sans-serif;
     text-align: center;
     color: red;
+    font-size: 2em;
 }
 
 
-header>a {
+header a {
     color: blue;
     font-family: 'Lato', sans-serif;
 }
