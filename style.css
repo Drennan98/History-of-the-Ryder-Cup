@@ -72,10 +72,6 @@ header {
     color: red;
 }
 
-a {
-    text-decoration: none;
-    word-spacing: 3em;
-}
 
 header>a {
     color: blue;
