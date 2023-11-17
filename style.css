@@ -25,7 +25,6 @@ h1 {
 
 #social-networks {
     display: flex;
-    padding: 55em;
     align-items: center;
 }
 
@@ -64,15 +63,15 @@ caption {
 
 /* Table styles end */
 
-body>h2 {
+main>h2 {
     text-align: left;
     color: blue;
     font-size: 1em;
 }
 
-body p {
-    display: flex;
+main p {
     text-align: left;
+    display: flex;
 }
 
 header {
@@ -85,6 +84,10 @@ header {
 header>a {
     color: blue;
     font-family: 'Lato', sans-serif;
+}
+
+a {
+    text-decoration: none;
 }
 
 th {
