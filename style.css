@@ -7,29 +7,51 @@
 header>p {
     text-align: left;
     font-style: italic;
+    text-shadow: 2px 2px 4px black;
 }
+
+
+h1 {
+    text-align: left;
+    text-shadow: 2px 2px 4px black;
+}
+
+
+
+/* Social media styles */
+
+#social-networks {
+    display: flex;
+    padding: 55em;
+    align-items: center;
+}
+
+#social-networks i {
+    font-size: 200%;
+    color: blue;
+}
+
 
 /* Table styles start */
 
 table {
     width: 8vw;
-    border: 2px solid;
+    border: 2px solid red;
     margin-left: auto;
     float: right;
+    position: relative;
+    right: 80vw;
+    font-size: 40px;
+}
+
+caption {
+    color: red;
+    font-style: italic;
 }
 
 .euro {
     color: blue;
     text-align: left;
-}
-
-table>h3 {
-    text-align: left;
-}
-
-h1 {
-    font-family: 'Lato', sans-serif;
-    font-style: italic;
 }
 
 .usa {
@@ -40,18 +62,19 @@ h1 {
 /* Table styles end */
 
 body>h2 {
-    text-align: center;
+    text-align: left;
+    color: blue;
 }
 
-body,
 header {
     font-family: 'Lato', sans-serif;
-}
-
-header {
     text-align: center;
     color: red;
-    font-size: 3em;
+}
+
+a {
+    text-decoration: none;
+    word-spacing: 3em;
 }
 
 header>a {
@@ -67,10 +90,10 @@ ul {
     list-style-type: none;
     text-align: right;
     color: blue;
-    position: absolute;
-    top: 0px;
-    right: 0px;
     font-style: italic;
+    position: absolute;
+    right: 6vw;
+    top: 0em;
 }
 
 
