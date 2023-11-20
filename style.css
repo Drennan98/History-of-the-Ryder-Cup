@@ -104,6 +104,13 @@ ul {
     top: 0em;
 }
 
+/* Form styles */
+
+form {
+    text-align: center;
+    border: 2px solid;
+}
+
 
 
 
