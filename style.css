@@ -21,57 +21,17 @@ h1 {
     text-shadow: 2px 2px 4px black;
 }
 
-/* Social media styles */
+/* Social media icon styles */
 
-#social-networks {
-    display: flex;
-    align-items: center;
+
+
+ul {
+    list-style: none;
 }
 
-#social-networks i {
-    font-size: 200%;
-    color: blue
-}
-
-
-/* Table styles start */
-
-table {
-    width: 8vw;
-    border: 2px solid red;
-    margin-left: auto;
-    float: right;
-    position: relative;
-    right: 80vw;
-    font-size: 40px;
-}
-
-caption {
-    color: red;
-    font-style: italic;
-}
-
-.euro {
+main h2 {
+    text-align: center;
     color: blue;
-    text-align: left;
-}
-
-.usa {
-    color: red;
-    text-align: right;
-}
-
-/* Table styles end */
-
-main>h2 {
-    text-align: left;
-    color: blue;
-    font-size: 1em;
-}
-
-main p {
-    text-align: left;
-    display: flex;
 }
 
 header {
@@ -90,20 +50,6 @@ a {
     text-decoration: none;
 }
 
-th {
-    word-spacing: 5px;
-}
-
-ul {
-    list-style-type: none;
-    text-align: right;
-    color: blue;
-    font-style: italic;
-    position: absolute;
-    right: 6vw;
-    top: 0em;
-}
-
 /* Form styles */
 
 form {
@@ -113,9 +59,43 @@ form {
 
 body {
     background-image: url(images/golf-form-background.jpeg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.golf {
+    text-align: center;
 }
 
 
+#socmed ul {
+    list-style: none;
+}
+
+#socmed li {
+    padding-left: 17%;
+    display: inline;
+
+}
 
 
-/* Media queries below here*/
+.fa-brands {
+    color: red;
+    flex-direction: row;
+    display: inline;
+    font-size: 50px;
+}
+
+footer {
+    border-style: solid;
+    border-width: 1px;
+
+}
+
+/* Form styles */
+.social-media {
+    display: flex;
+    justify-content: space-around;
+    color: blue;
+    flex-direction: row-reverse;
+}
