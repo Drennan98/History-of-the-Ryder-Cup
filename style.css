@@ -59,14 +59,13 @@ form {
 }
 
 body {
-    background-image: url(images/golf-form-background.jpeg);
+    background-image: url(images/newformbackground.jpeg);
     background-repeat: no-repeat;
     background-size: 100vw;
 }
 
 .golf {
     text-align: right;
-    padding-bottom: 1em;
 }
 
 
