@@ -46,10 +46,6 @@ header>a {
     font-family: 'Lato', sans-serif;
 }
 
-a {
-    text-decoration: none;
-}
-
 /* Form styles */
 
 form {
@@ -59,6 +55,7 @@ form {
     color: blue;
 }
 
+
 body {
     background-image: url(images/newformbackground.jpeg);
     background-repeat: no-repeat;
@@ -67,7 +64,6 @@ body {
 
 .golf {
     text-align: right;
-    text-decoration: none;
     position: absolute;
     top: 0px;
     right: 0px;
@@ -100,6 +96,10 @@ body {
     border: 3px solid gold;
 }
 
+a {
+    text-decoration: none;
+}
+
 
 .fa-brands {
     color: red;
@@ -109,9 +109,9 @@ body {
 }
 
 footer {
-    padding-top: 420px;
-    margin-top: auto;
+    padding-top: 19%;
 }
+
 
 .social-media {
     display: flex;
