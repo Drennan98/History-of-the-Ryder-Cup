@@ -54,8 +54,8 @@ a {
 
 form {
     text-align: right;
-    border: 2px solid;
     padding-right: 25%;
+    font-size: 150%;
 }
 
 body {
