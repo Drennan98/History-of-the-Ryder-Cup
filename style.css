@@ -7,6 +7,7 @@
     background-image: url(images/rydercup3.png);
     background-repeat: no-repeat;
     background-size: 100%;
+
 }
 
 header>p {
@@ -111,7 +112,6 @@ a {
 footer {
     padding-top: 19%;
 }
-
 
 .social-media {
     display: flex;
