@@ -53,18 +53,20 @@ a {
 /* Form styles */
 
 form {
-    text-align: center;
+    text-align: right;
     border: 2px solid;
+    padding-right: 25%;
 }
 
 body {
     background-image: url(images/golf-form-background.jpeg);
     background-repeat: no-repeat;
-    background-size: 100%;
+    background-size: 100vw;
 }
 
 .golf {
-    text-align: center;
+    text-align: right;
+    padding-bottom: 1em;
 }
 
 
@@ -75,7 +77,26 @@ body {
 #socmed li {
     padding-left: 17%;
     display: inline;
+}
 
+.bottom {
+    min-height: 100vh;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.usa {
+    text-align: left;
+    border: 3px solid gold;
+    font-size: 20px;
+    color: red;
+}
+
+.europe {
+    text-align: right;
+    color: blue;
+    font-size: 20px;
+    border: 3px solid gold;
 }
 
 
@@ -87,12 +108,9 @@ body {
 }
 
 footer {
-    border-style: solid;
-    border-width: 1px;
-
+    padding-top: 420px;
 }
 
-/* Form styles */
 .social-media {
     display: flex;
     justify-content: space-around;
