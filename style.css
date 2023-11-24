@@ -2,7 +2,6 @@
     font-family: 'Lato', sans-serif;
 }
 
-
 /* Video styles here */
 .video {
     position: relative;
@@ -15,6 +14,12 @@ iframe {
     margin: 0 auto;
 }
 
+/* Video styles end */
+
+#border {
+    border: 3px solid gold;
+    border-style: double;
+}
 
 header>p {
     text-align: left;
@@ -22,15 +27,12 @@ header>p {
     text-shadow: 2px 2px 4px black;
 }
 
-
 h1 {
     text-align: left;
     text-shadow: 2px 2px 4px black;
 }
 
 /* Social media icon styles */
-
-
 
 ul {
     list-style: none;
@@ -62,7 +64,6 @@ form {
     color: blue;
 }
 
-
 body {
     background-image: url(images/newformbackground.jpeg);
     background-repeat: no-repeat;
@@ -78,7 +79,6 @@ body {
     font-weight: 900;
 }
 
-
 #socmed ul {
     list-style: none;
 }
@@ -88,10 +88,8 @@ body {
     display: inline;
 }
 
-
 .usa {
     text-align: left;
-    border: 3px solid gold;
     font-size: 20px;
     color: red;
     font-weight: 900;
@@ -101,14 +99,12 @@ body {
     text-align: right;
     color: blue;
     font-size: 20px;
-    border: 3px solid gold;
     font-weight: 900;
 }
 
 a {
     text-decoration: none;
 }
-
 
 .fa-brands {
     color: red;
@@ -126,4 +122,9 @@ footer {
     justify-content: space-around;
     color: blue;
     flex-direction: row-reverse;
+}
+
+.rydercup {
+    display: flex;
+    justify-content: space-around;
 }
