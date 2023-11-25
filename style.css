@@ -74,8 +74,9 @@ body {
     top: 0px;
     right: 0px;
     padding-right: 5%;
-    font-weight: 900;
     position: fixed;
+    font-weight: 900;
+    text-shadow: 2px 2px 4px black;
 }
 
 #socmed ul {
