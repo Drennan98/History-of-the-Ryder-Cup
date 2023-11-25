@@ -3,15 +3,13 @@
 }
 
 /* Video styles here */
-.video {
-    position: relative;
-    width: 100%;
-}
 
 iframe {
     display: flex;
     justify-content: center;
     margin: 0 auto;
+    position: relative;
+    width: 100%;
 }
 
 /* Video styles end */
