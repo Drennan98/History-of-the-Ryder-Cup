@@ -57,20 +57,20 @@ header>a {
 
 form {
     text-align: right;
-    padding-right: 50%;
     font-size: 150%;
     color: blue;
+    padding-right: 40%;
+    padding-top: 5%;
 }
 
 body {
-    background-image: url(images/newformbackground.jpeg);
+    background-image: url(images/freshgolfbackground.jpg);
     background-repeat: no-repeat;
-    background-size: 100vw;
+    background-size: 100%;
 }
 
 .golf {
     text-align: right;
-    position: absolute;
     top: 0px;
     right: 0px;
     padding-right: 5%;
