@@ -115,6 +115,14 @@ a {
 
 footer {
     padding-top: 2%;
+    padding-bottom: 100px;
+}
+
+main {
+    display: flex;
+    flex-direction: column;
+    min-height: 50vh;
+    margin: 0;
 }
 
 .social-media {
@@ -125,7 +133,8 @@ footer {
 }
 
 .rydercup {
-    display: flex;
-    height: 100%;
-    width: 100%
+    width: 80%;
+    line-height: 1em;
+    border-radius: 25px;
+    align-items: center;
 }
