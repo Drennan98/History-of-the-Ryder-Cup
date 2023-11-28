@@ -2,6 +2,7 @@
     font-family: 'Lato', sans-serif;
 }
 
+
 /* Video styles here */
 
 iframe {
@@ -64,12 +65,11 @@ form {
 }
 
 body {
-    background-image: url(images/freshgolfbackground.jpg);
+    background-image: url(images/golf.jpeg);
     background-repeat: no-repeat;
     background-size: 100%;
-
+    justify-content: flex-end;
 }
-
 
 .golf {
     text-align: right;
@@ -140,7 +140,6 @@ main {
     margin-left: auto;
     margin-right: auto;
     width: 50%;
-    justify-content: space-around;
 }
 
 /* Media queries below here */
