@@ -146,13 +146,34 @@ main {
 
 /* Media query: large or landscape phones (576px and up) */
 
-@media screen and (min-width: 576px) {}
+@media screen and (max-width: 576px) {
+    h1 {
+        font-size: 80%;
+    }
+
+    header p {
+        font-size: 80%;
+    }
+
+    .golf {
+        font-size: 50%;
+    }
+
+    #socmed i {
+        font-size: 30px;
+    }
+
+    #socmed li {
+        padding-left: 12%;
+        display: inline;
+    }
+}
 
 /* Media query: tablets and larger (768px and up) */
-@media screen and (min-width: 768px) {}
+@media screen and (max-width: 768px) {}
 
 /* Larger devices (laptops and desktops, 992px and up) */
-@media screen and (min-width: 992px) {}
+@media screen and (max-width: 992px) {}
 
 /* Desktop screens */
-@media screen and (min-width: 1200px) {}
+@media screen and (max-width: 1200px) {}
