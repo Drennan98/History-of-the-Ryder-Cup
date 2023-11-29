@@ -7,3 +7,5 @@ The project is aimed mainly at golfers.
 # Deployed site
 
 The project can be viewed [here](https://drennan98.github.io/History-of-the-Ryder-Cup/) .
+
+# Features 
