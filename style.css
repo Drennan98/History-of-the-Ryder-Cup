@@ -144,6 +144,21 @@ main {
 
 /* Media queries below here */
 
+/* Desktop screens */
+@media screen and (max-width: 1200px) {}
+
+/* Larger devices (laptops and desktops, 992px and up) */
+@media screen and (max-width: 992px) {}
+
+/* Media query: tablets and larger (768px and up) */
+@media screen and (max-width: 768px) {
+
+    #socmed li {
+        padding-left: 14%;
+        display: inline;
+    }
+}
+
 /* Media query: large or landscape phones (576px and up) */
 
 @media screen and (max-width: 576px) {
@@ -172,6 +187,14 @@ main {
         padding-top: 15%;
         padding-bottom: 100px;
     }
+
+    main {
+        background-image: url(images/golf.webp);
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+
+
 }
 
 
@@ -183,11 +206,3 @@ main {
         display: inline;
     }
 }
-
-
-
-/* Larger devices (laptops and desktops, 992px and up) */
-@media screen and (max-width: 992px) {}
-
-/* Desktop screens */
-@media screen and (max-width: 1200px) {}
