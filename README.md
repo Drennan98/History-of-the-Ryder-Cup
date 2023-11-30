@@ -14,6 +14,8 @@ At the top left of the page, we have the heading of the website which clearly sh
 
 The website contains 3 pages **Home, Gallery and Tickets** and these are displayed in the top right.
 
+## Home
+
 - Header
 
 ![Nav links](images/screenshot1navlinks.png)
@@ -29,3 +31,9 @@ I've added in some facts about the Ryder Cup and a short video to how the actual
 Contains social media links which conveniently link to all Ryder Cup social media platforms.
 
 ![Footer](images/screenshot3footer.png)
+
+## Gallery
+
+Contains images of iconic Ryder Cup moments. I picked 5 images which I thought best suited the project.
+
+![Gallery](images/screenshot4gallery.png)
