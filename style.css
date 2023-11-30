@@ -187,22 +187,4 @@ main {
         padding-top: 15%;
         padding-bottom: 100px;
     }
-
-    main {
-        background-image: url(images/golf.webp);
-        background-repeat: no-repeat;
-        background-size: cover;
-    }
-
-
-}
-
-
-/* Media query: tablets and larger (768px and up) */
-@media screen and (max-width: 768px) {
-
-    #socmed li {
-        padding-left: 14%;
-        display: inline;
-    }
 }
