@@ -1,10 +1,16 @@
+<<<<<<< HEAD
 # Welcome to my project on the History of the Ryder Cup
 
 The reason I chose this project is because I really wanted to showcase the history of the Ryder Cup and all of its glory. The Ryder Cup being in County Limerick, Ireland in 2027 also influenced my decision as it's pretty topcial in the golf world right now. So why not have a look at some history of the event and even register for some tickets?
+=======
+# Welcome to my project on the History of the Ryder Cup! 
+The reason I chose this project is because I really wanted to showcase the history of the Ryder Cup and all of its glory. The Ryder Cup being in County Limerick, Ireland in 2027 also influenced my decision as it's pretty topcial in the golf world right now. So why not have a look at some history of the event and even register for some tickets? 
+>>>>>>> b7d57266ab5829b7fdaf2e3ecb82063817508966
 
 The project is aimed mainly at golfers.
 
 # Deployed site
+<<<<<<< HEAD
 
 The project can be viewed [here](https://drennan98.github.io/History-of-the-Ryder-Cup/).
 
@@ -15,3 +21,10 @@ At the top left of the page, we have the heading of the website which clearly sh
 The website contains 3 pages, Home, Gallery and Tickets and these are displayed in the top right.
 
 ![Nav links](images/screenshot1navlinks.png)
+=======
+The project can be viewed [here](https://drennan98.github.io/History-of-the-Ryder-Cup/) .
+
+# Features 
+At the top left of the page, we have the heading of the website which clearly shows what the website is about, this is a clickable heading which will bring the user back to the home page.
+
+>>>>>>> b7d57266ab5829b7fdaf2e3ecb82063817508966
