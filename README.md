@@ -20,10 +20,12 @@ The website contains 3 pages **Home, Gallery and Tickets** and these are display
 
 - Body of page
 
- I've added in some facts about the Ryder Cup and a short video to how the actual competition works.
+I've added in some facts about the Ryder Cup and a short video to how the actual competition works.
 
 ![Body of home page](images/screenshot2readme.png)
 
- - Footer
+- Footer
 
 Contains social media links which conveniently link to all Ryder Cup social media platforms.
+
+![Footer](images/screenshot3footer.png)
