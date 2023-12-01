@@ -63,7 +63,7 @@ Contains social media links which conveniently link to all Ryder Cup social medi
 
 - Some images were stretched and pixelated at first. So I deleted them and added new ones which rendered perfectly.
 
-## Validator testing
+# Validator testing
 
 - HTML
 
