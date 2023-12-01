@@ -43,11 +43,11 @@ Contains social media links which conveniently link to all Ryder Cup social medi
 
 ## Tickets
 
-Contains a sign up form for golfers to register their interest in tickets for future Ryder Cups. The form contains fields like Full Name, Email Address, Password and Confirm Password.
+- Contains a sign up form for golfers to register their interest in tickets for future Ryder Cups. The form contains fields like Full Name, Email Address, Password and Confirm Password.
 
 ![Tickets](images/screenshot5tickets.png)
 
-# Testing
+## Testing
 
 - I confirmed that this website works on different browsers like Safari and Google Chrome.
 
@@ -57,6 +57,16 @@ Contains a sign up form for golfers to register their interest in tickets for fu
 
 - I confirmed tha the form cannot be filled out unless every field is filled.
 
-# Bugs
+## Bugs
 
 - When adding the video, I used the <video> element which wasnt't supported. I contacted a tutor who advised me to use the <iframe> element which fixed the issue.
+
+- Some images were stretched and pixelated at first. So I deleted them and added new ones which rendered perfectly.
+
+## Validator testing
+
+- HTML
+
+- CSS
+
+- Accessibility
