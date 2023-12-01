@@ -35,5 +35,22 @@ Contains social media links which conveniently link to all Ryder Cup social medi
 ## Gallery
 
 Contains images of iconic Ryder Cup moments. I picked 5 images which I thought best suited the project.
+I aligned the photos vertically and curved the corners to make it more visually appealing.
 
 ![Gallery](images/screenshot4gallery.png)
+
+## Tickets
+
+Contains a sign up form for golfers to register their interest in tickets for future Ryder Cups. The form contains fields like Full Name, Email Address, Password and Confirm Password.
+
+![Tickets](images/screenshot5tickets.png)
+
+# Testing
+
+- I confirmed that this website works on different browsers like Safari and Google Chrome.
+
+- I confirmed that the navigation, header and social media links all work as intended.
+
+- The social media icons link to the actual Ryder Cup accounts which I thought added more authenticity.
+
+- I confirmed tha the form cannot be filled out unless every field is filled.
