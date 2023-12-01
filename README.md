@@ -32,7 +32,7 @@ Contains social media links which conveniently link to all Ryder Cup social medi
 
 ![Footer](images/screenshot3footer.png)
 
-## Gallery
+## Gallery
 
 Contains images of iconic Ryder Cup moments. I picked 5 images which I thought best suited the project.
 
