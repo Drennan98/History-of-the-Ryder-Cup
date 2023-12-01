@@ -18,11 +18,13 @@ The website contains 3 pages **Home, Gallery and Tickets** and these are display
 
 - Header
 
+Contains the heading and the navigation links for Home, Gallery and Ticket. The font is clear and readable. I fixed the header so users can easily access the all parts of the website while scrolling.
+
 ![Nav links](images/screenshot1navlinks.png)
 
 - Body of page
 
-I've added in some facts about the Ryder Cup and a short video to how the actual competition works.
+I've added in some facts about the Ryder Cup and a short video to how the actual competition works. The red and blue colors are used to represent the colors of each teams flags. Blue representing Europe while red represents America.
 
 ![Body of home page](images/screenshot2readme.png)
 
@@ -34,8 +36,8 @@ Contains social media links which conveniently link to all Ryder Cup social medi
 
 ## Gallery
 
-Contains images of iconic Ryder Cup moments. I picked 5 images which I thought best suited the project.
-I aligned the photos vertically and curved the corners to make it more visually appealing.
+- Contains images of iconic Ryder Cup moments. I picked 5 images which I thought best suited the project.
+  I aligned the photos vertically and curved the corners to make it more visually appealing.
 
 ![Gallery](images/screenshot4gallery.png)
 
