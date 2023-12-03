@@ -80,3 +80,15 @@ No errors appeared when I put the code through the official CSS validator.
 - Accessibility
 
 # Deployment
+
+- The site was deployed to GitHub pages. The steps I took to achieve this were:
+
+Go to the settings in the GitHub repository.
+
+Navigate your way to the pages section which should be the last tab on the left under Code and Automation.
+
+Make sure the source is Deploy from a branch.
+
+Set the branch to "main" and click save.
+
+The project can be viewed [here](https://drennan98.github.io/History-of-the-Ryder-Cup/).
