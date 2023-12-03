@@ -102,4 +102,5 @@ No errors appeared when I put the code through the official CSS validator.
 - The Ryder Cup website which I used to gather ideas.
 
 - ChatGPT, which I found very useful for getting a second reading about something I was not sure about. Spencer introduced me to it.
+
 - Stack Overflow.
