@@ -47,7 +47,7 @@ Contains social media links which conveniently link to all Ryder Cup social medi
 
 ![Tickets](images/screenshot5tickets.png)
 
-## Testing
+##  Testing
 
 - I confirmed that this website works on different browsers like Safari and Google Chrome.
 
@@ -67,9 +67,13 @@ Contains social media links which conveniently link to all Ryder Cup social medi
 
 - HTML
 
+No errors appeared when I put the code through the official HTML validator
+
+![HTML](images/screenshot7htmlvalidation.png)
+
 - CSS
 
-No errors appeared when I put the code through the offical validator.
+No errors appeared when I put the code through the official CSS validator.
 
 ![CSS](images/screenshot6cssvalidation.png)
 
