@@ -59,7 +59,7 @@ Contains social media links which conveniently link to all Ryder Cup social medi
 
 ## Bugs
 
-- When adding the video, I used the <video> element which wasnt't supported. I contacted a tutor who advised me to use the <iframe> element which fixed the issue.
+- When adding the video, I used the "video" element which wasnt't supported. I contacted a tutor who advised me to use the "iframe" element which fixed the issue.
 
 - Some images were stretched and pixelated at first. So I deleted them and added new ones which rendered perfectly.
 
