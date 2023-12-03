@@ -67,12 +67,16 @@ Contains social media links which conveniently link to all Ryder Cup social medi
 
 - HTML
 
-No errors appeared when I put the code through the official HTML validator
-HOME
-![HTML](images/screenshot7htmlvalidation.png)
+No errors appeared when I put the code through the official HTML validator.
 
-GALLERY
-![HTML](images/screenshot8galleryhtmlvalidation.png)
+**HOME**
+![HTMLValidation1](images/screenshot7htmlvalidation.png)
+
+**GALLERY**
+![HTMLValidation2](images/screenshot8galleryhtmlvalidation.png)
+
+**TICKETS**
+![HTMLValidation3](images/screenshot9ticketshtmlvalidation.png)
 
 - CSS
 
