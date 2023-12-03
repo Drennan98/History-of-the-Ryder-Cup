@@ -69,6 +69,10 @@ Contains social media links which conveniently link to all Ryder Cup social medi
 
 - CSS
 
+No errors appeared when I put the code through the offical validator.
+
+![CSS](images/screenshot6cssvalidation.png)
+
 - Accessibility
 
 # Deployment
