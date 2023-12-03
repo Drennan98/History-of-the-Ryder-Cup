@@ -53,9 +53,9 @@ Contains social media links which conveniently link to all Ryder Cup social medi
 
 - I confirmed that the navigation, header and social media links all work as intended.
 
-- The social media icons link to the actual Ryder Cup accounts which I thought added more authenticity.
+- The social media icons link to the official Ryder Cup accounts which I thought added more authenticity.
 
-- I confirmed tha the form cannot be filled out unless every field is filled.
+- I confirmed that the form cannot be filled out unless every field is filled.
 
 ## Bugs
 
