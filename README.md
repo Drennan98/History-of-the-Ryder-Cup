@@ -81,16 +81,25 @@ No errors appeared when I put the code through the official CSS validator.
 
 # Deployment
 
-- The site was deployed to GitHub pages. The steps I took to achieve this were:
+- The site was deployed to GitHub pages. **The steps I took to achieve this were:**
 
-* Go to the settings in the GitHub repository.
+- Go to the settings in the GitHub repository.
 
-* Navigate your way to the pages section which should be the last tab on the left under Code and Automation.
+- Navigate your way to the pages section which should be the last tab on the left under Code and Automation.
 
-* Make sure the source is Deploy from a branch.
+- Make sure the source is Deploy from a branch.
 
-* Set the branch to "main" and click save.
+- Set the branch to "main" and click save.
 
-* The project can be viewed [here](https://drennan98.github.io/History-of-the-Ryder-Cup/).
+- The project can be viewed [here](https://drennan98.github.io/History-of-the-Ryder-Cup/).
 
 # Credits
+
+- My mentor, Spencer for his patience with me and taking time out of his day for the mentor sessions.
+
+- Gavin Soady, of Enfer Medical.
+
+- The Ryder Cup website which I used to gather ideas.
+
+- ChatGPT, which I found very useful for getting a second reading about something I was not sure about. Spencer introduced me to it.
+- Stack Overflow.
