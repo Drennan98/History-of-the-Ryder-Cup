@@ -157,6 +157,12 @@ main {
         padding-left: 14%;
         display: inline;
     }
+
+     h1 {
+        font-size: 80%;
+    }
+
+
 }
 
 /* Media query: large or landscape phones (576px and up) */
