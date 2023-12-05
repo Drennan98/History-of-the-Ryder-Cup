@@ -104,6 +104,8 @@ No errors appeared when I put the code through the official CSS validator.
 
 # Credits
 
+- My brother, Sean for his guidance.
+
 - My mentor, Spencer for his patience with me and taking time out of his day for the mentor sessions.
 
 - Gavin Soady, of Enfer Medical.
@@ -113,3 +115,11 @@ No errors appeared when I put the code through the official CSS validator.
 - ChatGPT, which I found very useful for getting a second reading about something I was not sure about. Spencer introduced me to it.
 
 - Stack Overflow.
+
+- Images were gathered off various different sites like Golf Digest and the Ryder Cup official website.
+
+- The video was taken from the Ryder Cup YouTube channel.
+
+- I picked my social media icons on Font Awesome.
+
+- I found the background image on Pexels.
