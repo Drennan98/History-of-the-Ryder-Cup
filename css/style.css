@@ -2,11 +2,9 @@
     font-family: 'Lato', sans-serif;
 }
 
-h1 {
-    width: 60%;
+.sitename {
+    width: 80%;
 }
-
-
 
 /* Video styles here */
 
@@ -166,8 +164,6 @@ main {
     h1 {
         font-size: 80%;
     }
-
-
 }
 
 /* Media query: large or landscape phones (576px and up) */
@@ -195,7 +191,7 @@ main {
     }
 
     footer {
-        padding-top: 15%;
+        padding-top: 5%;
         padding-bottom: 100px;
     }
 }
