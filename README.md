@@ -8,7 +8,7 @@ The project is aimed mainly at golfers.
 
 The project can be viewed [here](https://drennan98.github.io/History-of-the-Ryder-Cup/).
 
-** Main technologies used were HTML and CSS. **
+**Main technologies used were HTML and CSS.**
 
 # Features
 
@@ -22,32 +22,32 @@ The website contains 3 pages **Home, Gallery and Tickets** and these are display
 
 Contains the heading and the navigation links for Home, Gallery and Ticket. The font is clear and readable. I fixed the header so users can easily access the all parts of the website while scrolling.
 
-![Nav links](images/screenshot1navlinks.png)
+![Nav links](assets/images/screenshot1navlinks.png)
 
 - Body of page
 
 I've added in some facts about the Ryder Cup and a short video to how the actual competition works. The red and blue colors are used to represent the colors of each teams flags. Blue representing Europe while red represents America.
 
-![Body of home page](images/screenshot2readme.png)
+![Body of home page](assets/images/screenshot2readme.png)
 
 - Footer
 
 Contains social media links which conveniently link to all Ryder Cup social media platforms.
 
-![Footer](images/screenshot3footer.png)
+![Footer](assets/images/screenshot3footer.png)
 
 ## Gallery
 
 - Contains images of iconic Ryder Cup moments. I picked 5 images which I thought best suited the project.
   I aligned the photos vertically and curved the corners to make it more visually appealing.
 
-![Gallery](images/screenshot4gallery.png)
+![Gallery](assets/images/screenshot4gallery.png)
 
 ## Tickets
 
 - Contains a sign up form for golfers to register their interest in tickets for future Ryder Cups. The form contains fields like Full Name, Email Address, Password and Confirm Password.
 
-![Tickets](images/screenshot5tickets.png)
+![Tickets](assets/images/screenshot5tickets.png)
 
 ##  Testing
 
@@ -72,19 +72,19 @@ Contains social media links which conveniently link to all Ryder Cup social medi
 No errors appeared when I put the code through the official HTML validator.
 
 **HOME**
-![HTMLValidation1](images/screenshot7htmlvalidation.png)
+![HTMLValidation1](assets/images/screenshot7htmlvalidation.png)
 
 **GALLERY**
-![HTMLValidation2](images/screenshot8galleryhtmlvalidation.png)
+![HTMLValidation2](assets/images/screenshot8galleryhtmlvalidation.png)
 
 **TICKETS**
-![HTMLValidation3](images/screenshot9ticketshtmlvalidation.png)
+![HTMLValidation3](assets/images/screenshot9ticketshtmlvalidation.png)
 
 - CSS
 
 No errors appeared when I put the code through the official CSS validator.
 
-![CSS](images/screenshot6cssvalidation.png)
+![CSS](assets/images/screenshot6cssvalidation.png)
 
 - Accessibility
 
