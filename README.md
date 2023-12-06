@@ -16,7 +16,6 @@ The website contains 3 pages **Home, Gallery and Tickets** and these are display
 
 **Main technologies used were HTML and CSS.**
 
-
 ## Home
 
 - Header

@@ -152,8 +152,6 @@ main {
 
 /* Media queries below here */
 
-/* Desktop screens */
-@media screen and (max-width: 1200px) {}
 
 /* Larger devices (laptops and desktops, 992px and up) */
 @media screen and (max-width: 992px) {
@@ -179,6 +177,7 @@ main {
 /* Media query: large or landscape phones (576px and up) */
 
 @media screen and (max-width: 576px) {
+
     h1 {
         font-size: 80%;
     }
