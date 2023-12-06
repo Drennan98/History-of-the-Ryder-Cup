@@ -6,6 +6,10 @@ h1 {
     width: 80%;
 }
 
+.media {
+    width: 50%;
+}
+
 img {
     width: auto;
     height: auto;
@@ -167,6 +171,10 @@ main {
     #socmed li {
         padding-left: 14%;
         display: inline;
+    }
+
+    footer {
+        padding-right: 6%;
     }
 
     h1 {
