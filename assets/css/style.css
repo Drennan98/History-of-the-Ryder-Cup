@@ -157,7 +157,7 @@ main {
 /* Media queries below here */
 
 
-/* Larger devices (laptops and desktops, 992px and up) */
+/* Larger devices (max 992px) */
 @media screen and (max-width: 992px) {
 
     footer {
@@ -165,7 +165,7 @@ main {
     }
 }
 
-/* Media query: tablets and larger (768px and up) */
+/* Media query: tablets and larger (max 768px) */
 @media screen and (max-width: 768px) {
 
     #socmed li {
@@ -182,7 +182,7 @@ main {
     }
 }
 
-/* Media query: large or landscape phones (576px and up) */
+/* Media query: large or landscape phones (max 576px) */
 
 @media screen and (max-width: 576px) {
 
@@ -199,7 +199,8 @@ main {
     }
 
     #socmed i {
-        font-size: 25px;
+        font-size: 40px;
+        padding-top: 20%;
     }
 
     #socmed li {
