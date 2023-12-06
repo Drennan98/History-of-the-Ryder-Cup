@@ -8,13 +8,14 @@ The project is aimed mainly at golfers.
 
 The project can be viewed [here](https://drennan98.github.io/History-of-the-Ryder-Cup/).
 
-**Main technologies used were HTML and CSS.**
-
 # Features
 
 At the top left of the page, we have the heading of the website which clearly shows what the website is about, this is a clickable heading which will bring the user back to the home page.
 
 The website contains 3 pages **Home, Gallery and Tickets** and these are displayed in the top right.
+
+**Main technologies used were HTML and CSS.**
+
 
 ## Home
 
