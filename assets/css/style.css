@@ -15,6 +15,13 @@ img {
     height: auto;
 }
 
+#copyright {
+    color: white;
+    font-size: 2em;
+    text-align: left;
+    padding-top: 2%;
+}
+
 .thankyou {
     color: red;
 }
