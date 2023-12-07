@@ -15,6 +15,11 @@ img {
     height: auto;
 }
 
+.thankyou {
+    color: red;
+    text-align: center;
+}
+
 /* Video styles here */
 
 iframe {
