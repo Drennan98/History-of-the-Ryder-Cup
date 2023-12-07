@@ -45,7 +45,7 @@ Contains social media links which conveniently link to all Ryder Cup social medi
 
 ## Tickets
 
-- Contains a sign up form for golfers to register their interest in tickets for future Ryder Cups. The form contains fields like Full Name, Email Address, Password and Confirm Password.
+- Contains a sign up form for golfers to register their interest in tickets for future Ryder Cups. The form contains fields like Full Name, Email Address, Password and Confirm Password. Once the form is filled out you will be redirected to a "thank you page".
 
 ![Tickets](assets/images/screenshot5tickets.png)
 
