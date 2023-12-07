@@ -102,7 +102,7 @@ No errors appeared when I put the code through the official CSS validator.
 
 - The project can be viewed [here](https://drennan98.github.io/History-of-the-Ryder-Cup/).
 
-# Credits
+#  Credits
 
 - My brother, Sean for his guidance.
 
