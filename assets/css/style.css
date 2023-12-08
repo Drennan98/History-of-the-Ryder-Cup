@@ -101,6 +101,8 @@ body {
     position: fixed;
     font-weight: 900;
     text-shadow: 2px 2px 4px black;
+    display: block;
+    z-index: 1;
 }
 
 #socmed ul {
@@ -112,7 +114,6 @@ ul {
     display: flex;
     justify-content: space-evenly
 }
-
 
 .usa {
     text-align: left;
@@ -223,5 +224,11 @@ main {
 
     #copyright {
         text-align: center;
+    }
+
+    ul {
+        text-align: center;
+        display: flex;
+        justify-content: space-evenly
     }
 }
