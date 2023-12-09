@@ -119,14 +119,16 @@ ul {
     text-align: left;
     font-size: 20px;
     color: #f7f4ea;
-    font-weight: 900;
+    font-weight: 500;
+    background-color: red;
 }
 
 .europe {
     text-align: right;
     color: #f7f4ea;
     font-size: 20px;
-    font-weight: 900;
+    font-weight: 500;
+    background-color: blue;
 }
 
 a {
