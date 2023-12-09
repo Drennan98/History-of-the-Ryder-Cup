@@ -30,7 +30,7 @@ Contains the heading and the navigation links for Home, Gallery and Ticket. The 
 
 I've added in some facts about the Ryder Cup and a short video to how the actual competition works. The font is white on red and blue backgrounds to make for better contrast and easier for the user to read. I originally had just blue and red text with no background and this was much harder to read.
 
-![Body of home page](assets/images/screenshot2readme.png)
+![Body of home page](assets/images/updatedsbodyscreenshot.png)
 
 - Footer
 
