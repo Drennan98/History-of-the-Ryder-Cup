@@ -94,21 +94,23 @@ Lighthouse audits
 
 - Mobile 
 
-Home 
+**Home** 
 
 ![LighthouseAudit1](assets/images/mobilelighthouse1.png)
 
-Gallery 
+**Gallery** 
 
-Tickets 
+**Tickets** 
+
+![LighthouseAudit3](assets/images/mobilelighthouse3.png)
 
 - Desktop 
 
-Home 
+**Home** 
 
-Gallery 
+**Gallery** 
 
-Tickets 
+**Tickets** 
 
 # Deployment
 
