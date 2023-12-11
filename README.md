@@ -61,6 +61,8 @@ Contains social media links which conveniently link to all Ryder Cup social medi
 
 - I confirmed that the form cannot be filled out unless every field is filled.
 
+- I sent the link of the deployed site to my brother and some friends who confirmed that all links work as intended.
+
 ## Bugs
 
 - When adding the video, I used the "video" element which wasnt't supported. I contacted a tutor who advised me to use the "iframe" element which fixed the issue.
