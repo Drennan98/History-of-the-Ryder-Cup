@@ -10,7 +10,7 @@ The project can be viewed [here](https://drennan98.github.io/History-of-the-Ryde
 
 ![Responsive](assets/images/responsivescreenshot.png)
 
-# Wireframes 
+#Wireframes 
 
 ![HomeWireframe](assets/images/home-wireframe.png)
 
