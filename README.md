@@ -90,7 +90,7 @@ No errors appeared when I put the code through the official CSS validator.
 
 - Accessibility
 
-Lighthouse audits
+## Lighthouse audits
 
 - Mobile 
 
@@ -112,9 +112,11 @@ Lighthouse audits
 
 **Gallery** 
 
+![LighthouseAudit5](assets/images/desktoplighthouse2.png)
+
 **Tickets** 
 
-![DesktopLighthouse3](assets/images/desktoplighthouse3.png)
+![DesktopLighthouse6](assets/images/desktoplighthouse3.png)
 
 # Deployment
 
