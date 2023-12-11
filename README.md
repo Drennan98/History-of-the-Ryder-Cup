@@ -10,7 +10,7 @@ The project can be viewed [here](https://drennan98.github.io/History-of-the-Ryde
 
 ![Responsive](assets/images/responsivescreenshot.png)
 
-#Wireframes 
+# Wireframes 
 
 ![HomeWireframe](assets/images/home-wireframe.png)
 
@@ -59,7 +59,7 @@ Contains social media links which conveniently link to all Ryder Cup social medi
 
 ![Tickets](assets/images/screenshot5tickets.png)
 
-##  Testing
+## Testing
 
 - I confirmed that this website works on different browsers like Safari and Google Chrome.
 
