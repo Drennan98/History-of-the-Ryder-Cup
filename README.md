@@ -16,6 +16,8 @@ The project can be viewed [here](https://drennan98.github.io/History-of-the-Ryde
 
 ![GalleryWireframe](assets/images/gallery-wireframe.png)
 
+![TicketsWireframe](assets/images/tickets-wireframe.png)
+
 # Features
 
 At the top left of the page, we have the heading of the website which clearly shows what the website is about, this is a clickable heading which will bring the user back to the home page.
