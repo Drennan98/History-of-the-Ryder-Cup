@@ -108,9 +108,13 @@ Lighthouse audits
 
 **Home** 
 
+![LighthouseAudit4](assets/images/desktoplighthouse1.png)
+
 **Gallery** 
 
 **Tickets** 
+
+![DesktopLighthouse3](assets/images/desktoplighthouse3.png)
 
 # Deployment
 
