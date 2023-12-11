@@ -130,6 +130,8 @@ No errors appeared when I put the code through the official CSS validator.
 
 # Deployment
 
+- Throughout the project, I committed changes using these steps: "git add ." --> "git commit -m "message"" --> "git push".
+
 - The site was deployed to GitHub pages. **The steps I took to achieve this were:**
 
 - Go to the settings in the GitHub repository.
