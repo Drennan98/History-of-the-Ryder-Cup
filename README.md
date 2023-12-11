@@ -158,4 +158,4 @@ No errors appeared when I put the code through the official CSS validator.
 
 - The various different channels I used on Slack. 
 
-- The Code Institute LMS, I found myself referring back the material now and again. 
+- The Code Institute LMS, I found myself referring back the material frequently. 
