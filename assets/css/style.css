@@ -173,9 +173,7 @@ main {
 
 /* Larger devices (max 992px) */
 @media screen and (max-width: 992px) {
-    footer {
-        padding-right: 11%;
-    }
+    
 }
 
 /* Media query: tablets and larger (max 768px) */
@@ -183,10 +181,6 @@ main {
     #socmed li {
         padding-left: 14%;
         display: inline;
-    }
-
-    footer {
-        padding-right: 6%;
     }
 
     h1 {
@@ -215,7 +209,6 @@ main {
     }
 
     #socmed li {
-        padding-left: 12%;
         display: inline;
     }
 
