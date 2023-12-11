@@ -90,9 +90,9 @@ No errors appeared when I put the code through the official CSS validator.
 
 - Accessibility
 
-## Lighthouse audits
+# Lighthouse audits
 
-- Mobile 
+## Mobile 
 
 **Home** 
 
@@ -104,7 +104,7 @@ No errors appeared when I put the code through the official CSS validator.
 
 ![LighthouseAudit3](assets/images/mobilelighthouse3.png)
 
-- Desktop 
+## Desktop 
 
 **Home** 
 
@@ -153,3 +153,7 @@ No errors appeared when I put the code through the official CSS validator.
 - I picked my social media icons on Font Awesome.
 
 - I found the background image on Pexels.
+
+- The various different channels I used on Slack. 
+
+- The Code Institute LMS, I found myself referring back the material now and again. 
