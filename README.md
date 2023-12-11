@@ -90,6 +90,26 @@ No errors appeared when I put the code through the official CSS validator.
 
 - Accessibility
 
+Lighthouse audits
+
+- Mobile 
+
+Home 
+
+![LighthouseAudit1](assets/images/mobilelighthouse1.png)
+
+Gallery 
+
+Tickets 
+
+- Desktop 
+
+Home 
+
+Gallery 
+
+Tickets 
+
 # Deployment
 
 - The site was deployed to GitHub pages. **The steps I took to achieve this were:**
