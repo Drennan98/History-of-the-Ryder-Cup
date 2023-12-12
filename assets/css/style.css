@@ -114,6 +114,7 @@ a:hover {
 
 #socmed ul {
     list-style: none;
+    padding-top: 5%;
 }
 
 ul {
@@ -238,5 +239,10 @@ main {
     form {
         padding-right: 20%;
         padding-top: 32%;
+    }
+
+    img {
+        width: 50px;
+        height: 150px;
     }
 }
