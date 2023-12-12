@@ -10,7 +10,7 @@ The project can be viewed [here](https://drennan98.github.io/History-of-the-Ryde
 
 ![Responsive](assets/images/responsivescreenshot.png)
 
-# Wireframes 
+# Wireframes
 
 ![HomeWireframe](assets/images/home-wireframe.png)
 
@@ -102,29 +102,29 @@ No errors appeared when I put the code through the official CSS validator.
 
 # Lighthouse audits
 
-## Mobile 
+## Mobile
 
-**Home** 
+**Home**
 
 ![LighthouseAudit1](assets/images/mobilelighthouse1.png)
 
-**Gallery** 
+**Gallery**
 
-**Tickets** 
+**Tickets**
 
 ![LighthouseAudit3](assets/images/mobilelighthouse3.png)
 
-## Desktop 
+## Desktop
 
-**Home** 
+**Home**
 
 ![LighthouseAudit4](assets/images/desktoplighthouse1.png)
 
-**Gallery** 
+**Gallery**
 
 ![LighthouseAudit5](assets/images/desktoplighthouse2.png)
 
-**Tickets** 
+**Tickets**
 
 ![DesktopLighthouse6](assets/images/desktoplighthouse3.png)
 
@@ -166,6 +166,10 @@ No errors appeared when I put the code through the official CSS validator.
 
 - I found the background image on Pexels.
 
-- The various different channels I used on Slack. 
+- The various different channels I used on Slack.
 
-- The Code Institute LMS, I found myself referring back the material frequently. 
+- The Code Institute LMS, I found myself referring back the material frequently.
+
+# Future plans
+
+I thought of an idea throughout the devlopment of this project, and that was to host livestreams for future Ryder Cups. People could possibly pay a subscription and then get access to livestreams when they fill out the form assell as registering interest for tickets.
