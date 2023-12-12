@@ -3,7 +3,7 @@
 }
 
 h1 {
-    width: 70%;
+    width: 65%;
 }
 
 .media {
@@ -106,6 +106,7 @@ body {
     text-shadow: 2px 2px 4px black;
     display: block;
     z-index: 1;
+    line-height: 2;
 }
 
 a:hover {
