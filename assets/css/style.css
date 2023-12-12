@@ -15,8 +15,8 @@ a {
 }
 
 img {
+    height: 500px;
     width: auto;
-    height: auto;
 }
 
 #copyright {
@@ -110,7 +110,7 @@ body {
 }
 
 a:hover {
-  text-decoration: underline;
+    text-decoration: underline;
 }
 
 #socmed ul {
