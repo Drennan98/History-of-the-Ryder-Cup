@@ -108,6 +108,8 @@ No errors appeared when I put the code through the official CSS validator.
 
 **Gallery**
 
+![LighthouseAudit2](assets/images/mobilelighthouse2.png)
+
 **Tickets**
 
 ![LighthouseAudit3](assets/images/mobilelighthouse3.png)
