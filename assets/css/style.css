@@ -232,11 +232,16 @@ footer {
 
     form {
         padding-right: 20%;
-        padding-top: 32%;
+        font-size: 120%;
     }
 
     img {
         width: 50px;
         height: 150px;
     }
+
+    input {
+        width: 80px; 
+    }
+
 }
