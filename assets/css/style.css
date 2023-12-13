@@ -65,6 +65,7 @@ ul {
 main h2 {
     text-align: center;
     color: blue;
+    font-style: italic;
 }
 
 header {
@@ -243,5 +244,4 @@ footer {
     input {
         width: 80px; 
     }
-
 }
