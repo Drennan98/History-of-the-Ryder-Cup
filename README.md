@@ -98,11 +98,9 @@ No errors appeared when I put the code through the official CSS validator.
 
 ![CSS](assets/images/screenshot6cssvalidation.png)
 
-- Accessibility
-
 # Lighthouse audits
 
-## Mobile
+##  Mobile
 
 **Home**
 
@@ -114,7 +112,7 @@ No errors appeared when I put the code through the official CSS validator.
 
 ![LighthouseAudit3](assets/images/mobilelighthouse3.png)
 
-## Desktop
+##  Desktop
 
 **Home**
 
